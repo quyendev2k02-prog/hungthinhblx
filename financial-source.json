@@ -1,0 +1,337 @@
+{
+  "url": "https://docs.google.com/spreadsheets/d/1NwtwBkeG9od86xI3BXBwQPzUeVFMm3a1oNr-caJ8_B0/edit",
+  "capturedAt": "2026-11-07T12:35:25.839Z",
+  "expenses": [
+    {
+      "id": "sheet-T8-19",
+      "sheet": "T8",
+      "cell": "F19",
+      "month": "2026-08",
+      "reason": "Đóng tiền thuê nhà (Mặt bằng)",
+      "amount": 32000000,
+      "note": "Hợp đồng thuê mặt bằng ('CÔNG NỢ + CHI PHÍ'!N17)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T8-20",
+      "sheet": "T8",
+      "cell": "F20",
+      "month": "2026-08",
+      "reason": "Mua cửa kính / Cửa văn phòng",
+      "amount": 8000000,
+      "note": "Thi công hoàn thiện ('CÔNG NỢ + CHI PHÍ'!N18)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T8-21",
+      "sheet": "T8",
+      "cell": "F21",
+      "month": "2026-08",
+      "reason": "Lắp đặt điều hòa",
+      "amount": 5200000,
+      "note": "Trang bị điều hòa ('CÔNG NỢ + CHI PHÍ'!N19)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T8-22",
+      "sheet": "T8",
+      "cell": "F22",
+      "month": "2026-08",
+      "reason": "Mua máy tính làm việc",
+      "amount": 5000000,
+      "note": "Máy tính quản lý hồ sơ ('CÔNG NỢ + CHI PHÍ'!N20)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T8-23",
+      "sheet": "T8",
+      "cell": "F23",
+      "month": "2026-08",
+      "reason": "Bàn ghế làm việc",
+      "amount": 600000,
+      "note": "Ghế ngồi văn phòng ('CÔNG NỢ + CHI PHÍ'!N21)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T8-24",
+      "sheet": "T8",
+      "cell": "F24",
+      "month": "2026-08",
+      "reason": "Bộ bàn ghế sofa tiếp khách",
+      "amount": 1900000,
+      "note": "Tiếp đón học viên ('CÔNG NỢ + CHI PHÍ'!N22)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T8-25",
+      "sheet": "T8",
+      "cell": "F25",
+      "month": "2026-08",
+      "reason": "Biển hiệu trung tâm",
+      "amount": 1600000,
+      "note": "Biển quảng cáo ('CÔNG NỢ + CHI PHÍ'!N23)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T8-26",
+      "sheet": "T8",
+      "cell": "F26",
+      "month": "2026-08",
+      "reason": "Tranh trang trí văn phòng",
+      "amount": 1000000,
+      "note": "Tranh treo tường ('CÔNG NỢ + CHI PHÍ'!N24)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T8-27",
+      "sheet": "T8",
+      "cell": "F27",
+      "month": "2026-08",
+      "reason": "Mua thiết bị, dụng cụ hỗ trợ",
+      "amount": 2000000,
+      "note": "Dụng cụ đào tạo ('CÔNG NỢ + CHI PHÍ'!N25)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T8-28",
+      "sheet": "T8",
+      "cell": "F28",
+      "month": "2026-08",
+      "reason": "Tiền lương nhân sự",
+      "amount": 7000000,
+      "note": "Lương quản lý vận hành ('CÔNG NỢ + CHI PHÍ'!N26)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T8-29",
+      "sheet": "T8",
+      "cell": "F29",
+      "month": "2026-08",
+      "reason": "Chi phí hồ sơ BLX / Nghiệp vụ",
+      "amount": 4000000,
+      "note": "Lệ phí hồ sơ xe ('CÔNG NỢ + CHI PHÍ'!N27)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T8-30",
+      "sheet": "T8",
+      "cell": "F30",
+      "month": "2026-08",
+      "reason": "Phí tài khoản / Phần mềm (TK NG)",
+      "amount": 1600000,
+      "note": "Chi phí tài khoản ('CÔNG NỢ + CHI PHÍ'!N28)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T8-31",
+      "sheet": "T8",
+      "cell": "F31",
+      "month": "2026-08",
+      "reason": "Chi phí di chuyển / Taxi",
+      "amount": 360000,
+      "note": "Đi lại đối ngoại ('CÔNG NỢ + CHI PHÍ'!N29)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T8-32",
+      "sheet": "T8",
+      "cell": "F32",
+      "month": "2026-08",
+      "reason": "Chi phí phụ kiện / Hồ sơ (PK3)",
+      "amount": 10890000,
+      "note": "Vật tư văn phòng ('CÔNG NỢ + CHI PHÍ'!N30)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T8-33",
+      "sheet": "T8",
+      "cell": "F33",
+      "month": "2026-08",
+      "reason": "Tiền nước / Nhân công (Công NC)",
+      "amount": 350000,
+      "note": "Nước uống & nhân công ('CÔNG NỢ + CHI PHÍ'!N31)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T8-34",
+      "sheet": "T8",
+      "cell": "F34",
+      "month": "2026-08",
+      "reason": "Chi phí Marketing (Quảng cáo)",
+      "amount": 17000000,
+      "note": "Chi phí marketing Tháng 8 ('CÔNG NỢ + CHI PHÍ'!N32)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T9-27",
+      "sheet": "T9",
+      "cell": "F27",
+      "month": "2026-09",
+      "reason": "Mua thiết bị, dụng cụ hỗ trợ",
+      "amount": 500000,
+      "note": "Dụng cụ đào tạo bổ sung Tháng 9 ('CÔNG NỢ + CHI PHÍ'!N25)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T9-28",
+      "sheet": "T9",
+      "cell": "F28",
+      "month": "2026-09",
+      "reason": "Tiền lương nhân sự",
+      "amount": 24484000,
+      "note": "Lương quản lý, đào tạo Tháng 9 ('CÔNG NỢ + CHI PHÍ'!N26)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T9-30",
+      "sheet": "T9",
+      "cell": "F30",
+      "month": "2026-09",
+      "reason": "Phí tài khoản / Phần mềm (TK NG)",
+      "amount": 255000,
+      "note": "Chi phí tài khoản, phần mềm Tháng 9 ('CÔNG NỢ + CHI PHÍ'!N28)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T9-32",
+      "sheet": "T9",
+      "cell": "F32",
+      "month": "2026-09",
+      "reason": "Chi phí phụ kiện / Hồ sơ (PK3)",
+      "amount": 135000,
+      "note": "Vật tư văn phòng Tháng 9 ('CÔNG NỢ + CHI PHÍ'!N30)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T9-34",
+      "sheet": "T9",
+      "cell": "F34",
+      "month": "2026-09",
+      "reason": "Chi phí Marketing (Quảng cáo)",
+      "amount": 12314000,
+      "note": "Chi phí quảng cáo tuyển sinh Tháng 9 ('CÔNG NỢ + CHI PHÍ'!N32)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T10-19",
+      "sheet": "T10",
+      "cell": "F19",
+      "month": "2026-10",
+      "reason": "Đóng tiền thuê nhà (Mặt bằng)",
+      "amount": 24000000,
+      "note": "Anh Việt thanh toán ngày 13/10/2026 (27,300,000 đ)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T10-20",
+      "sheet": "T10",
+      "cell": "F20",
+      "month": "2026-10",
+      "reason": "Mua cửa kính / Decal dán cửa",
+      "amount": 20000,
+      "note": "Mua decal dán cửa kính (20,000 đ)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T10-28",
+      "sheet": "T10",
+      "cell": "F28",
+      "month": "2026-10",
+      "reason": "Tiền lương nhân sự",
+      "amount": 22678000,
+      "note": "Lương nhân viên Tháng 9 chi trả Tháng 10 (19,678,000 đ)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T10-30",
+      "sheet": "T10",
+      "cell": "F30",
+      "month": "2026-10",
+      "reason": "Phí tài khoản / Mạng Internet",
+      "amount": 610000,
+      "note": "Tiền mạng Internet Tháng 8 & Tháng 9 (610,000 đ)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T10-31",
+      "sheet": "T10",
+      "cell": "F31",
+      "month": "2026-10",
+      "reason": "Chi phí di chuyển / Taxi",
+      "amount": 500000,
+      "note": "Tiền xe đi lại công việc (500,000 đ)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T10-33",
+      "sheet": "T10",
+      "cell": "F33",
+      "month": "2026-10",
+      "reason": "Tiền điện, nước (Tiện ích)",
+      "amount": 3300000,
+      "note": "Tiền điện 3 tháng: T7, T8, T9 (3,300,000 đ)",
+      "date": "",
+      "spender": ""
+    },
+    {
+      "id": "sheet-T10-34",
+      "sheet": "T10",
+      "cell": "F34",
+      "month": "2026-10",
+      "reason": "Chi phí Marketing (Quảng cáo, hashtag)",
+      "amount": 500000,
+      "note": "Mua hashtag truyền thông (500,000 đ)",
+      "date": "",
+      "spender": ""
+    }
+  ],
+  "monthly": {
+    "2026-08": 98500000,
+    "2026-09": 37688000,
+    "2026-10": 51608000
+  },
+  "capitalContributions": [
+    {
+      "id": "capital-hung",
+      "name": "Anh Hưng",
+      "amount": 50000000,
+      "sourceSheet": "TỔNG QUAN CHI PHÍ T8 & T9",
+      "sourceCell": "J22"
+    },
+    {
+      "id": "capital-viet",
+      "name": "Anh Việt",
+      "amount": 50000000,
+      "sourceSheet": "TỔNG QUAN CHI PHÍ T8 & T9",
+      "sourceCell": "J23"
+    }
+  ],
+  "capitalTotal": 100000000,
+  "capitalSourceReadAt": "2026-11-07"
+}
